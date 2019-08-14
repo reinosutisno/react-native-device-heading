@@ -6,7 +6,7 @@
   "typings": "./deviceheading.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reinosutisno/react-native-device-heading"
+    "url": "git+https://github.com/reinosutisno/react-native-device-heading.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +24,9 @@
   "license": "MIT",
   "devDependencies": {
     "react-native": "*"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/reinosutisno/react-native-device-heading/issues"
+  },
+  "homepage": "https://github.com/reinosutisno/react-native-device-heading#readme"
 }
