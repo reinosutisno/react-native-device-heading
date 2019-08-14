@@ -1,0 +1,28 @@
+{
+  "name": "react-native-device-heading",
+  "version": "1.0.0",
+  "description": "Get device compass heading information for iOS and Android",
+  "main": "deviceheading.js",
+  "typings": "./deviceheading.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reinosutisno/react-native-device-heading"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "device",
+    "events",
+    "cocoapod"
+  ],
+  "author": "Reino Sutisno",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "*"
+  }
+}
