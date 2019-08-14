@@ -3,7 +3,7 @@ const { RNDeviceHeading } = NativeModules;
 
 let listener;
 
-let _start = DeviceHeading.start;
+let _start = RNDeviceHeading.start;
 RNDeviceHeading.start = (updateRate, callback) => {
   if (listener) {
     DeviceHeading.stop();
