@@ -6,7 +6,7 @@
   "typings": "./deviceheading.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mausic/react-native-device-heading.git"
+    "url": "git+https://github.com/reinosutisno/react-native-device-heading.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,8 +21,8 @@
     "cocoapod"
   ],
   "author": {
-    "name": "Maksym Ryndia",
-    "email": "maksym.ryndia@anywayguides.com"
+    "name": "Reino Sutisno",
+    "email": "YOUR_EMAIL_HERE@gmail.com"
   },
   "license": "MIT",
   "devDependencies": {
