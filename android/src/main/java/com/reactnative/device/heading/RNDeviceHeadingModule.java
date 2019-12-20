@@ -1,5 +1,4 @@
-
-package com.reactlibrary;
+package com.reactnative.device.heading;
 
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
@@ -44,7 +43,7 @@ public class RNDeviceHeadingModule extends ReactContextBaseJavaModule implements
 
     @Override
     public String getName() {
-        return "CompassHeading";
+        return "RNDeviceHeading";
     }
 
     @ReactMethod
