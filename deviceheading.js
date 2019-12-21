@@ -6,7 +6,7 @@ let listener;
 let _start = RNDeviceHeading.start;
 RNDeviceHeading.start = (updateRate, callback) => {
   if (listener) {
-    DeviceHeading.stop();
+    RNDeviceHeading.stop();
   }
 
   const rnDeviceEventEmitter = new NativeEventEmitter(RNDeviceHeading);
