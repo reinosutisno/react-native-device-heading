@@ -1,6 +1,6 @@
 {
   "name": "react-native-device-heading",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get device heading information for iOS and Android",
   "main": "deviceheading.js",
   "typings": "./deviceheading.d.ts",
