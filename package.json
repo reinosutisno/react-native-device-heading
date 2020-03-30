@@ -1,7 +1,7 @@
 {
   "name": "react-native-device-heading",
   "version": "1.0.0",
-  "description": "Get device compass heading information for iOS and Android",
+  "description": "Get device heading information for iOS and Android",
   "main": "deviceheading.js",
   "typings": "./deviceheading.d.ts",
   "repository": {
@@ -20,7 +20,10 @@
     "events",
     "cocoapod"
   ],
-  "author": "Reino Sutisno",
+  "author": {
+    "name": "Reino Sutisno",
+    "email": "YOUR_EMAIL_HERE@gmail.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "react-native": "*"
